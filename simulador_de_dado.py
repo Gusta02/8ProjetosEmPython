@@ -35,5 +35,3 @@ class SimuladorDeDado:
 
 simulador = SimuladorDeDado()
 simulador.Iniciar()
-
-#teste de git
